@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="email_layout_margintop">60dp</dimen>
+    <dimen name="margintostarttext">10dp</dimen>
+</resources>
